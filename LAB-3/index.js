@@ -8,7 +8,7 @@ send.addEventListener('click',(e)=>{
     web.open('GET',`https://jsonplaceholder.typicode.com/todos/${id}`,true)
 
     web.onreadystatechange = function(){
-        if(web.readyState ==4 && web.status ==200){
+        if(web.readyState == 4 && web.status == 200){
             console.log(this.readyState)
             console.log(this.status)
             console.log(web)
