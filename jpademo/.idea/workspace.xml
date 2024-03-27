@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34e5fbae-f8f4-414f-9d7e-8b36292defdc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetRepo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetServise.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetServise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetServiseImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-12/src/main/java/com/example/LAB12/PetServiseImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LAB-2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../LAB-2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-8/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-8/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-8/src/main/java/com/example/student/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/main/java/com/example/student/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-8/src/main/webapp/WEB-INF/jsp/welcome.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/main/webapp/WEB-INF/jsp/welcome.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lab-8/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab-8/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/StudentAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/StudentAddress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../addmissionform/src/main/java/com/example/addmissionform/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addmissionform/src/main/webapp/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../addmissionform/src/main/webapp/views/home.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../addmissionform/src/main/webapp/views/register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../addmissionform/src/main/webapp/views/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ecomform/ecomform/src/main/java/com/example/ecomform/WelCome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ecomform/ecomform/src/main/java/com/example/ecomform/WelCome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../petform/petform/src/main/java/com/example/WelCome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../petform/petform/src/main/webapp/views/welcome.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../reactlearn/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../reactlearn/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studentreg/studentreg/src/main/java/com/example/studentreg/Welcome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../studentreg/studentreg/src/main/webapp/views/welcome.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="34e5fbae-f8f4-414f-9d7e-8b36292defdc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -108,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711555615792</updated>
-      <workItem from="1711555617503" duration="5998000" />
+      <workItem from="1711555617503" duration="6339000" />
     </task>
     <servers />
   </component>
